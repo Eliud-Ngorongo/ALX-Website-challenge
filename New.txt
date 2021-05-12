@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang ="en-US">  
+  <head>
+    <meta charset="utf-8">
+    <title> NGORONGO  </title>
+    <link href="style.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, intial-scale= 1.0"><body class="works_on_smartphone" id="scroll-up" data-new-gr-c-s-check-loaded="14.1010.0" data-gr-ext-installed="">
+
+    <header>
+      <div class="right">
+
+	<ul class="social">
+	  <li class="ion-social-facebook">
+	    <a href="https://www.facebook.com/Blackalpha363/" target="_blank">
+	      <ion-icon name="logo-facebook" size="large" role="img" class="md icon-large hydrated" aria-label="logo facebook"></ion-icon>
+	    </a>
+	  </li>
+	  <li class="ion-social-twitter">
+	    <a href="https://twitter.com/YKidem" target="_blank">
+	      <ion-icon name="logo-twitter" size="large" role="img" class="md icon-large hydrated" aria-label="logo twitter"></ion-icon>
+</a>
+</li>
+<li class="ion-social-linkedin">
+  <a href="https://www.linkedin.com/in/yunus-kt-544aa91b7/" target="_blank">
+    <ion-icon name="logo-linkedin" size="large" role="img" class="md icon-large hydrated" aria-label="logo linkedin"></ion-icon>
+  </a>
+</li>
+<li class="ion-social-instagram">
+  <a href="https://www.instagram.com/black._alpha/" target="_blank">
+    <ion-icon name="logo-instagram" size="large" role="img" class="md icon-large hydrated" aria-label="logo instagram"></ion-icon>
+  </a>
+</li>
+</ul>
+</div>
+<div class="scroll-up-btn">
+  <a href="#scroll-up">
+    <ion-icon name="arrow-up-circle-outline" role="img" class="md hydrated" aria-label="arrow up circle outline"></ion-icon>
+  </a>
+</div>
+        <!--<ul>
+            <li class="logo">Ӂ </li>
+        </ul>-->
+
+
+	<nav class="navbar">
+	  <a href="index.html">Home</a>
+	  <a href="guide.html">Guide</a>
+	  <a href="tweets.html">Tweet</a>
+	  <a href="contact.html">Contact</a>
+	  <div class="animations smart-homes"></div>
+	</nav>
+
+</header>
+
+
+<main>
+
+  <article id="article-home">
+    <section class="home" id="home">
+      <div class="max-width">
+	<div class="home-content">
+	  <div class="text-1">Hello, my name is </div>
+	  <div class="text-2">Yunus Kidem </div>
+	  <div class="text-3">And i'm a <span class="typing">Digital</span><span class="typed-cursor" aria-hidden="true">|</span></div>
+	</div>
+      </div>
+    </section>
+    <section class="my-story">
+      <h2>My story</h2>
+      <p>I always craved to find my passion; as a result I try out many different things &amp; use to read books etc… But when I stumbled upon web development, &amp; software engineering in general; I was fascinated by how it aligned with my future goals
+	&amp; having to build something from scratch and change an idea into a reality – that’s just astonishing.</p>
+      <p>That being said, I found my passion for software engineering pretty late. I graduated with high school diploma from school of tomorrow, and then I was assigned at Mekelle university. The first semester was a common course, I had good grades
+	&amp; chose engineering path. </p>
+      <br>
+      <h4> How I stubmled upon web development</h4>
+      <p>During my stay there I had a friend who was a programmer, I saw him draw a layout &amp; content on a paper; After 2 weeks I saw that exact drawing come to life. As I said it was so fascinating, so we arranged a time to study on 2nd semester
+	but before we choose our department Covid-19 outbreak &amp; we were all sent home. </p>
+      <p>I did some researching to be a self-taught developer &amp; the path was so overwhelming. There are multiple language, tons of resources &amp; without a clear path you easily lose track. So I decided it was better to learn it with him when campus
+	is re-opened after Covid-19. </p>
+      <p>Even though we were called to come back, there was a conflict that started there &amp; my family refused to let me go. I felt for a sec that my dream &amp; goals that have huge impact vanished into thin air. After I took a deep breath, I realized
+	that I have to face the facts &amp; that I will have to get through this overwhelming journey to find the right <a href="guide.html">path</a>.</p>
+      <p>Then when I read about ALX I was so excited; the videos at the start of the application, there tough application process &amp; post payment gave me a huge confidence on their organization. In our country payment method is the biggest roadblock
+	for things that require credit card. </p>
+    </section>
+    <section class="impact">
+      <blockquote class="blockquote blockquote-border blockquote-quoted">
+	<p class="blockquote-text">Could anything be better than this walking up every day knowing that lots of people are smiling because you chose to impact lives, making the world a better place</p>
+	<p class="blockquote-text blockquote-text-credit"> Anyaele Sam Chiyson</p>
+      </blockquote>
+      <h2>Impact</h2>
+      <p>In the 21st century, digital technology is creating a fundamental shift in accelerating growth and development of the global economy. However, African countries are lagging behind from reaping the benefits of digitalization in boosting
+	productivity across sectors particularly its positive impact for opening job opportunities to the unemployed youth. Ethiopia having predominantly youth poulation(70%), is no exception to this reality. </p>
+      <p>There are tons of problems waiting for us to be solved, that we can see in our day to day life, things you have to do</p>
+      <ol>
+	<li>First, we have to choose to notice them</li>
+	<li>Then, we need to acquire the set of skills required to solve those problems</li>
+      </ol>
+      <p>I personally chose the department of health &amp; e-commerce. <strong>ALX will give me the required skills to save many people’s lives &amp; also increase our economy </strong></p>
+      <p>We’ve got to understand that the reason that you are existing in this world right now is because you have things that must be done and only certain people are qualified to take it to the next level that it needs to be taken to.</p>
+      <p>“If you knew how quickly you are forgotten after you die” – that’s a huge motivation to push you to do great things &amp; live life of impact. Keep in mind sooner or later we are all going to punch that clock, So do the best that you can to
+	have the right attitude to make your existence matter.</p>
+      <p>After finalizing this course, I have also planned to contribute to my county’s effort to enhancing the role of the …..technology by establishing a multi sectoral tech-firm. The objectives of this …firm is two-fold: on the one hand to educate
+	significant number of the youth equipped with up to date skills in software engineering capable of providing creative solution to the challenges faced in all sectors of development thereby creating employment opportunities. On the
+	other hand, providing quality service to governmental and private sectors that aims to utilize unprecedented opportunities the digital technology offers in terms of enhancing the efficacy and efficiency of their sector.</p>
+    </section>
+    <section class="About-me">
+      <div class="container">
+	<h2>Yunus Kidem</h2>
+	<h3>ALX Software Engineer</h3>
+	<div class="image">
+	  <img src="https://i.ibb.co/tM9KVvV/Close-up-shot-ed.jpg" alt="profile-picture" class="small" id="smart_thumbnail">
+	</div>
+
+	<p>I'm an Ethiopian-born; love to travel &amp; learn new things. I'm ambitious and constantly thrive to make my-self better. Kickboxing, swimming &amp; reading books are my hobbies. &amp; My strength's are I am self-motivated, innovated, hard working
+	  And disciplined person.</p>
+	<a href="contact.html" class="btn">Get In Touch</a>
+      </div>
+    </section>
+
+
+
+  </article>
+
+  <aside>
+
+    <!--<img src="https://th.bing.com/th/id/OIF.p0nK5XYWaFz3O1wpl3at1Q?w=256&h=180&c=7&o=5&dpr=1.5&pid=1.7" id="smart_thumbnail" alt="image for resizing" class="small" id="smart_thumbnail">-->
+    <iframe srcdoc="<html><head><style>html, body {
+  height: 100% !important;
+  overflow: hidden !important;
+}
+#btn-once-05227035044494868 {
+  border: 2px solid #f06a0a !important;
+  background-color: #f06a0a !important;
+  color: #fefefe !important;
+}
+#btn-site-05322961380043514 {
+  border: 2px solid #333 !important;
+  background-color: #fefefe !important;
+  color: #333 !important;
+}
+#btn-once-05227035044494868:hover {
+  background-color: #fefefe !important;
+  color: #333 !important;
+}
+#btn-site-05322961380043514:hover {
+  background-color: #fefefe !important;
+  border: 2px solid #f06a0a !important;
+}
+#ico-help-06632305119924835 {
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  line-height: 12px;
+  text-decoration: none;
+}
+#ico-help-06632305119924835:before {
+  border: 2px solid;
+  border-radius: 50%;
+  display: inline-block;
+  color: #555;
+  content: '?';
+  font-size: 12px;
+  font-weight: bold;
+  padding: 1px;
+  height: 1em;
+  width: 1em;
+}
+#ico-help-06632305119924835:hover:before {
+  color: #ec9329;
+}
+a {
+  text-decoration: underline;
+  color: black;
+}
+a:hover {
+  color: #ec9329;
+}</style></head><body style=&quot;margin:0&quot;><div style=&quot;display: flex !important; flex-direction: column !important; align-items: center !important; justify-content: center !important; width: 100% !important; height: 100% !important;&quot;><div style=&quot;color: rgb(48, 48, 48) !important; font-family: helvetica, arial, sans-serif !important; font-size: 16px !important; display: flex !important; flex-wrap: wrap !important; justify-content: center !important; text-align: center !important; margin: 10px !important;&quot;>Privacy Badger has replaced this Disqus widget<a id=&quot;ico-help-06632305119924835&quot; href=&quot;https://privacybadger.org/#How-does-Privacy-Badger-handle-social-media-widgets&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;></a></div><div style=&quot;color: rgb(48, 48, 48) !important; font-family: helvetica, arial, sans-serif !important; font-size: 16px !important; display: flex !important; flex-wrap: wrap !important; justify-content: center !important; text-align: center !important; margin: 10px !important; width: 100% !important;&quot;><button id=&quot;btn-once-05227035044494868&quot; style=&quot;transition: background-color 0.25s ease-out 0s, border-color 0.25s ease-out 0s, color 0.25s ease-out 0s !important; border-radius: 3px !important; cursor: pointer !important; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;avenir next&amp;quot;, avenir, &amp;quot;helvetica neue&amp;quot;, helvetica, Ubuntu, roboto, noto, &amp;quot;segoe ui&amp;quot;, arial, sans-serif !important; font-size: 14px !important; font-weight: bold !important; -webkit-font-smoothing: antialiased !important; line-height: 16px !important; padding: 10px !important; margin: 4px !important; text-align: center !important; width: 70% !important; max-width: 280px !important;&quot;>Allow once</button><button id=&quot;btn-site-05322961380043514&quot; style=&quot;transition: background-color 0.25s ease-out 0s, border-color 0.25s ease-out 0s, color 0.25s ease-out 0s !important; border-radius: 3px !important; cursor: pointer !important; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;avenir next&amp;quot;, avenir, &amp;quot;helvetica neue&amp;quot;, helvetica, Ubuntu, roboto, noto, &amp;quot;segoe ui&amp;quot;, arial, sans-serif !important; font-size: 14px !important; font-weight: bold !important; -webkit-font-smoothing: antialiased !important; line-height: 16px !important; padding: 10px !important; margin: 4px !important; text-align: center !important; width: 70% !important; max-width: 280px !important;&quot;>Always allow on this site</button></div></div></body></html>" style="background-color: rgb(255, 255, 255) !important; border: 1px solid rgb(236, 147, 41) !important; min-width: 220px !important; min-height: 210px !important; max-height: 600px !important; z-index: 2147483647 !important; width: 355px !important;"></iframe>
+    <script>
+      /**
+      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+      /*
+      var disqus_config = function () {
+      this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
+      */
+      (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document,
+      s = d.createElement('script');
+      s.src = 'https://yunuss-blog.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  </aside>
+
+</main>
+
+<footer>
+  Built with <span>❤</span> by Yunus Kidem Tesfaye for <a href="https://alx-apply.hbtn.io" target="_blank">ALX</a>.
+</footer>
+<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+
+
+
+<style type="text/css" data-typed-js-css="true">
+        .typed-cursor{
+          opacity: 1;
+        }
+        .typed-cursor.typed-cursor--blink{
+          animation: typedjsBlink 0.7s infinite;
+          -webkit-animation: typedjsBlink 0.7s infinite;
+                  animation: typedjsBlink 0.7s infinite;
+        }
+        @keyframes typedjsBlink{
+          50% { opacity: 0.0; }
+        }
+        @-webkit-keyframes typedjsBlink{
+          0% { opacity: 1; }
+          50% { opacity: 0.0; }
+          100% { opacity: 1; }
+        }
+      </style></body>
