@@ -29,7 +29,7 @@ time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-    background-color: darkslategray;
+
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -38,6 +38,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+
 }
 blockquote, q {
 	quotes: none;
@@ -64,13 +65,22 @@ nav{
 
 body {
 	font-family: 'Josefin Sans', serif;
+	background: linear-gradient(45deg, #ffcc5c 20%, #3c3c3c 20% 50%, #ff6f69 50% 80%, #96ceb4 80%);
+	background-size: contain;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	background-attachment: fixed;
 	color: rgba(0, 0, 0, 0.8);
 }
 h1, h2, h3, h4, h5, h6, header {
 	font-family: 'Yeseva One', sans-serif;
+	color:teal;
 }
 header {
-	border-bottom: 1px solid rgb(221,221,221);
+	border-bottom: 1px;
 	transition: border-bottom-color 1s ease;
 }
 header a {
@@ -101,16 +111,21 @@ a {
 	body {
 		width: 1100px;
 		margin: 0 auto;
-	}
-}
+	}}
 
 article {
-	padding:15px;
-    width:55%;
+	padding:10px;
+    width:50%;
     float:left;
-    margin:10px;
     overflow-y:auto;
     flex:2;
+	position: absolute;
+	border-left: 10px double black;
+	background-color:azure;
+	border-right: 10px double black;
+	border-bottom: 10px solid black;
+	border-top: 10px solid black;
+	border-radius: 20px;
 }
 aside {
 	padding: 50px 15px;
@@ -118,7 +133,9 @@ aside {
 header .right {
 	float: right;
 	margin: 0 10px 15px;
+
 }
+
 
 
 /* Header */
@@ -133,7 +150,7 @@ header ul {
 }
 header li {
 	display: inline;
-	vertical-align:middle;
+	vertical-align: auto;
 }
 header li:first-child {
 	margin: 0;
@@ -142,7 +159,7 @@ header li a {
 	margin: 0 10px;
 }
 header li.logo {
-	font-size: 36px;
+	font-size: 3px;
 }
 header a {
 	text-decoration: none;
@@ -155,15 +172,19 @@ aside p {
 	border-radius: 10px;
 	padding: 20px 20px;
 }
+header ul {
+}
 
 
 /* Footer */
 
 footer {
     color:black;
-    padding:10px;
+    padding:25px;
     height:80px;
     clear:both;
+	float:left;
+	flex:1;
 
 }
 
@@ -201,16 +222,16 @@ h6 {
 }
 
 @media (max-width: 800px) {
-  body.works_on_smartphone {
-  	display: block;
+	body.works_on_smartphone {
+		display: block;
+	}
+	body.works_on_smartphone main {
+		display: block;
+	}
+	header .right {
+		float: none;
+	}
   }
-  body.works_on_smartphone main {
-  	display: block;
-  }
-  header .right {
-  	float: none;
-  }
-}
 
 /* image JS challenge */
 
@@ -222,7 +243,6 @@ img.small {
 	width: 100px;
 }
 a:link, a:visited {
-    background-color: darkslategray;
     color:black;
     padding: 14px 25px;
     text-align: center;
@@ -232,7 +252,16 @@ a:link, a:visited {
   }
   
   a:hover, a:active {
-    background-color: darkslategray;
     text-decoration: underline;
     font-size: 150%;    
+	color: thistle;
+  }
+  .image{
+	border-radius:30%; 
+	height:18%;
+	width:18%;
+	margin-right:100%;
+	margin-left: 20%;
+	display:block ;
+	border: 5px solid#e0ffff;
   }

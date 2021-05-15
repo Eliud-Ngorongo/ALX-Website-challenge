@@ -60,9 +60,15 @@ body {
 	color: rgba(0, 0, 0, 0.8);
 }
 h1, h2, h3, h4, h5, h6, header {
-	font-family: 'Yeseva One', sans-serif;
+	font-family: 'Yeseva One', sans-serif;  
 }
 article {
+    padding:15px;
+    width:55%;
+    float:left;
+    margin:10px;
+    overflow-y:auto;
+    flex:2;
 }
 header {
 	border-bottom: 1px solid rgb(221,221,221);
@@ -73,6 +79,10 @@ header a {
 }
 aside {
 	background: #FAFAFA;
+    width:20%;
+    overflow-y:auto;
+    float:right;
+    flex:1;
 }
 aside p {
 	border: 1px solid #bbb;
@@ -113,17 +123,22 @@ header .right {
 
 /* Header */
 header {
-	padding: 20px 0;
-	height: 80px;
+    height: 70px;
+    background-size:cover;
+    background-position: center;
+
 }
+
 header ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
+
 }
 header li {
 	display: inline;
 	vertical-align:middle;
+
 }
 header li:first-child {
 	margin: 0;
@@ -136,6 +151,7 @@ header li.logo {
 }
 header a {
 	text-decoration: none;
+
 }
 
 
@@ -152,6 +168,9 @@ aside p {
 footer {
 	padding: 5px 15px;
 	height: 80px;
+    color:black;
+    padding:10px;
+    clear:both;
 }
 
 
@@ -208,3 +227,25 @@ img {
 img.small {
 	width: 100px;
 }
+a:link, a:visited {
+    size: 10px; 
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    float:right;
+  }
+  
+  a:hover, a:active {
+    text-decoration: underline;
+    font-size: 130%;    
+  }
+  .first{
+      font-size: 70px;
+      font-weight: bolder;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: lightgreen;
+  }
+  .navbar{
+      
+  }
