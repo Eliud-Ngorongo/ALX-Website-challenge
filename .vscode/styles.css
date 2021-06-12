@@ -1,0 +1,12 @@
+.parent{
+    background-color:grey;
+    position:relative;
+}
+.child-one{
+    position:fixed;
+    color: indigo;
+
+
+}
+.child-two{}
+.child-three{}
